@@ -1,0 +1,87 @@
+/*Header style*/
+.nav-form {
+    width: 508px;
+
+}
+
+nav ul {
+    margin-left: 56px;
+}
+
+.collapse form:first-child {
+    margin-left: 56px;
+}
+
+.web-detail {
+    background: #FEEAE9;
+
+}
+
+.carousel-item img {
+    width: 402px;
+
+}
+
+/* main section style */
+
+.image-icon {
+    width: 68px;
+}
+
+.image-icon img {
+    width: 100%;
+}
+
+.catagory-watch {
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+
+.catagory-bag {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+
+.catagory-shoe {
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+
+.wraper {
+    background: #F4F4F4;
+}
+
+.card img {
+    width: 100%;
+}
+
+.update {
+    padding: 10%;
+    background: #FFF2F1;
+}
+
+.form-control {
+    border-radius: 0%;
+    width: 300px;
+}
+
+.btn-form {
+    background-color: #FF136F;
+
+    color: #ffffff;
+    width: 120px;
+    height: 53px;
+    border-radius: 0%;
+}
+
+/* media quaries */
+@media only screen and (max-width: 992px) {
+
+    nav ul {
+        margin-left: 0;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .nav-form {
+        width: 320px;
+
+    }
+}
